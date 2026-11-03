@@ -1,0 +1,26 @@
+# Large datasets
+/datasets/
+
+# Experiment runs and outputs
+/experiments/
+
+# Image tiles
+/tiles/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
